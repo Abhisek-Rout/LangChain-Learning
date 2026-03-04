@@ -35,7 +35,6 @@ cache/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
-*.ipynb
 
 # Dependencies
 *.egg-info/
