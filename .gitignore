@@ -44,3 +44,7 @@ build/
 # System files
 *.pyc
 .pytest_cache/
+
+# Database
+db/
+10.VectorStore/chroma_db/
